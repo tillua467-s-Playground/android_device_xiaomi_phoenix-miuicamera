@@ -1,8 +1,8 @@
-# All unpinned blobs below are extracted from garnet OS2.0.10.0.VNRMIXM
+# All unpinned blobs below are extracted from phoenix 12.SKQ1.210908.001
 
-product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk|b002b84688ec6704c91d86bcae0954cda150f83b
+system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Snap,Camera2,GoogleCameraGo
 
-system_ext/lib64/libcamera_algoup_jni.xiaomi.so:system/lib64/libcamera_algoup_jni.xiaomi.so
-system_ext/lib64/libcamera_mianode_jni.xiaomi.so:system/lib64/libcamera_mianode_jni.xiaomi.so
-system_ext/lib64/libmicampostproc_client.so:system/lib64/libmicampostproc_client.so
-system_ext/lib64/vendor.xiaomi.hardware.campostproc@1.0.so:system/lib64/vendor.xiaomi.hardware.campostproc@1.0.so;MODULE_SUFFIX=_system
+system/lib64/libcamera_algoup_jni.xiaomi.so
+system/lib64/libcamera_mianode_jni.xiaomi.so
+system/priv-app/MiuiCamera/lib/arm64/libc++_shared.so
+
